@@ -1,0 +1,356 @@
+#EXTM3U
+
+
+
+#EXTINF:-1, UNICABLE
+http://ryuk.serviceonline.live/lstream2/5a5352377b7cee799e13281a/59c49f31f6df682fdc196ca1/_/UNICABLEHD.m3u8@eyJjcyI6dHJ1ZSwiYSI6IjE2MjJmZjM4MDFmYjc0YzM3NTUyYWEyZjEyODZhMDQ4IiwiYiI6Ijg2ZmRhNDQ0MDczOWZhMzVjNDkxOTNjMTcwZGZkY2IzIiwiYyI6IjM3MWJlYzM4MTk5YTExMGYxYzRiMTQ1OWZhMzEzYTE1In0=/source.ts
+
+#EXTINF:-1, COMEDY CENTRAL
+http://ryuk.serviceonline.live/lstream2/5a7797221e45225679b90ca5/59c49f31f6df682fdc196ca1/_/COMEDYCENTRALHD.m3u8@eyJjcyI6dHJ1ZSwiYSI6IjE2MjJmZjM4MDFmYjc0YzM3NTUyYWEyZjEyODZhMDQ4IiwiYiI6Ijg2ZmRhNDQ0MDczOWZhMzVjNDkxOTNjMTcwZGZkY2IzIiwiYyI6IjM3MWJlYzM4MTk5YTExMGYxYzRiMTQ1OWZhMzEzYTE1In0=/source.ts
+
+#EXTINF:-1, Cine Latino
+http://ryuk.serviceonline.live/lstream2/5a77977540536a568741203b/59c49f31f6df682fdc196ca1/_/CINELATINOHD.m3u8@eyJjcyI6dHJ1ZSwiYSI6IjE2MjJmZjM4MDFmYjc0YzM3NTUyYWEyZjEyODZhMDQ4IiwiYiI6Ijg2ZmRhNDQ0MDczOWZhMzVjNDkxOTNjMTcwZGZkY2IzIiwiYyI6IjM3MWJlYzM4MTk5YTExMGYxYzRiMTQ1OWZhMzEzYTE1In0=/source.ts
+
+#EXTINF:-1, CINEMAX
+http://ryuk.serviceonline.live/lstream2/5a5351ff077a17797a3bb68c/59c49f31f6df682fdc196ca1/_/CINEMAXHD.m3u8@eyJjcyI6dHJ1ZSwiYSI6IjE2MjJmZjM4MDFmYjc0YzM3NTUyYWEyZjEyODZhMDQ4IiwiYiI6Ijg2ZmRhNDQ0MDczOWZhMzVjNDkxOTNjMTcwZGZkY2IzIiwiYyI6IjM3MWJlYzM4MTk5YTExMGYxYzRiMTQ1OWZhMzEzYTE1In0=/source.ts
+
+#EXTINF:-1, Max UP
+http://ryuk.serviceonline.live/lstream2/5a77bde2baacf516873a2e01/59c49f31f6df682fdc196ca1/_/MAXUPHD.m3u8@eyJjcyI6dHJ1ZSwiYSI6IjE2MjJmZjM4MDFmYjc0YzM3NTUyYWEyZjEyODZhMDQ4IiwiYiI6Ijg2ZmRhNDQ0MDczOWZhMzVjNDkxOTNjMTcwZGZkY2IzIiwiYyI6IjM3MWJlYzM4MTk5YTExMGYxYzRiMTQ1OWZhMzEzYTE1In0=/source.ts
+
+#EXTINF:-1, MAX PRIME
+http://ryuk.serviceonline.live/lstream2/5a77bdc1baacf516873a2e00/59c49f31f6df682fdc196ca1/_/MAXPRIMEHD.m3u8@eyJjcyI6dHJ1ZSwiYSI6IjE2MjJmZjM4MDFmYjc0YzM3NTUyYWEyZjEyODZhMDQ4IiwiYiI6Ijg2ZmRhNDQ0MDczOWZhMzVjNDkxOTNjMTcwZGZkY2IzIiwiYyI6IjM3MWJlYzM4MTk5YTExMGYxYzRiMTQ1OWZhMzEzYTE1In0=/source.ts
+
+#EXTINF:-1, FOX SERIES
+http://ryuk.serviceonline.live/lstream4/590830507efd824f7a2fe6a4/5900bc02970b1071e240b0cb/_/420.m3u8@eyJjcyI6dHJ1ZSwiYSI6IjE2MjJmZjM4MDFmYjc0YzM3NTUyYWEyZjEyODZhMDQ4IiwiYiI6Ijg2ZmRhNDQ0MDczOWZhMzVjNDkxOTNjMTcwZGZkY2IzIiwiYyI6IjM3MWJlYzM4MTk5YTExMGYxYzRiMTQ1OWZhMzEzYTE1In0=/source.ts
+
+#EXTINF:-1, FOX LIFE
+http://peperoni.serviceonline.live/lstream2/5a779e88f99d4e5690cde79c/59c49f31f6df682fdc196ca1/_/FOXLIFEHD.m3u8@eyJjcyI6dHJ1ZSwiYSI6IjE2MjJmZjM4MDFmYjc0YzM3NTUyYWEyZjEyODZhMDQ4IiwiYiI6Ijg2ZmRhNDQ0MDczOWZhMzVjNDkxOTNjMTcwZGZkY2IzIiwiYyI6IjM3MWJlYzM4MTk5YTExMGYxYzRiMTQ1OWZhMzEzYTE1In0=/source.ts
+
+#EXTINF:-1, GOLDEN PREMIER
+http://ryuk.serviceonline.live/lstream2/5a68c5ca135aa0796e07d668/59c49f31f6df682fdc196ca1/_/goldenpremierHD.m3u8@eyJjcyI6dHJ1ZSwiYSI6IjE2MjJmZjM4MDFmYjc0YzM3NTUyYWEyZjEyODZhMDQ4IiwiYiI6Ijg2ZmRhNDQ0MDczOWZhMzVjNDkxOTNjMTcwZGZkY2IzIiwiYyI6IjM3MWJlYzM4MTk5YTExMGYxYzRiMTQ1OWZhMzEzYTE1In0=/source.ts
+
+#EXTINF:-1, H2
+http://ryuk.serviceonline.live/lstream2/5a5351cc90236179989b090d/59c49f31f6df682fdc196ca1/_/H2HD.m3u8@eyJjcyI6dHJ1ZSwiYSI6IjE2MjJmZjM4MDFmYjc0YzM3NTUyYWEyZjEyODZhMDQ4IiwiYiI6Ijg2ZmRhNDQ0MDczOWZhMzVjNDkxOTNjMTcwZGZkY2IzIiwiYyI6IjM3MWJlYzM4MTk5YTExMGYxYzRiMTQ1OWZhMzEzYTE1In0=/source.ts
+
+#EXTINF:-1, HISTORY CHANNEL
+http://ryuk.serviceonline.live/lstream2/5a68c5871dfd9a7974863fac/59c49f31f6df682fdc196ca1/_/HISTORYHD.m3u8@eyJjcyI6dHJ1ZSwiYSI6IjE2MjJmZjM4MDFmYjc0YzM3NTUyYWEyZjEyODZhMDQ4IiwiYiI6Ijg2ZmRhNDQ0MDczOWZhMzVjNDkxOTNjMTcwZGZkY2IzIiwiYyI6IjM3MWJlYzM4MTk5YTExMGYxYzRiMTQ1OWZhMzEzYTE1In0=/source.ts
+
+#EXTINF:-1, DISCOBERY TURBO
+http://ryuk.serviceonline.live/lstream2/5a779a3e05b2bd56a114adb7/59c49f31f6df682fdc196ca1/_/DISCOVERYTURBOHD.m3u8@eyJjcyI6dHJ1ZSwiYSI6IjE2MjJmZjM4MDFmYjc0YzM3NTUyYWEyZjEyODZhMDQ4IiwiYiI6Ijg2ZmRhNDQ0MDczOWZhMzVjNDkxOTNjMTcwZGZkY2IzIiwiYyI6IjM3MWJlYzM4MTk5YTExMGYxYzRiMTQ1OWZhMzEzYTE1In0=/source.ts
+
+#EXTINF:-1, STUDIO UNIVERSAL
+http://peperoni.serviceonline.live/lstream2/5a77beb1baacf516873a2e04/59c49f31f6df682fdc196ca1/_/STUDIOUNIVERSALHD.m3u8@eyJjcyI6dHJ1ZSwiYSI6IjE2MjJmZjM4MDFmYjc0YzM3NTUyYWEyZjEyODZhMDQ4IiwiYiI6Ijg2ZmRhNDQ0MDczOWZhMzVjNDkxOTNjMTcwZGZkY2IzIiwiYyI6IjM3MWJlYzM4MTk5YTExMGYxYzRiMTQ1OWZhMzEzYTE1In0=/source.ts
+
+#EXTINF:-1, SONY
+http://peperoni.serviceonline.live/lstream2/59c53dc40c0cb92303cdb605/59c49f31f6df682fdc196ca1/_/SONYHD.m3u8@eyJjcyI6dHJ1ZSwiYSI6IjE2MjJmZjM4MDFmYjc0YzM3NTUyYWEyZjEyODZhMDQ4IiwiYiI6Ijg2ZmRhNDQ0MDczOWZhMzVjNDkxOTNjMTcwZGZkY2IzIiwiYyI6IjM3MWJlYzM4MTk5YTExMGYxYzRiMTQ1OWZhMzEzYTE1In0=/source.ts
+
+#EXTINF:-1, WARNER
+http://peperoni.serviceonline.live/lstream2/5a77bfcfbaacf516873a2e09/59c49f31f6df682fdc196ca1/_/WARNERHD.m3u8@eyJjcyI6dHJ1ZSwiYSI6IjE2MjJmZjM4MDFmYjc0YzM3NTUyYWEyZjEyODZhMDQ4IiwiYiI6Ijg2ZmRhNDQ0MDczOWZhMzVjNDkxOTNjMTcwZGZkY2IzIiwiYyI6IjM3MWJlYzM4MTk5YTExMGYxYzRiMTQ1OWZhMzEzYTE1In0=/source.ts
+
+#EXTINF:-1, CANAL DE LAS ESTRELLAS
+http://ryuk.serviceonline.live/lstream2/5a779aa705b2bd56a114adb9/59c49f31f6df682fdc196ca1/_/CANALDELASESTRELLASHD.m3u8@eyJjcyI6dHJ1ZSwiYSI6IjE2MjJmZjM4MDFmYjc0YzM3NTUyYWEyZjEyODZhMDQ4IiwiYiI6Ijg2ZmRhNDQ0MDczOWZhMzVjNDkxOTNjMTcwZGZkY2IzIiwiYyI6IjM3MWJlYzM4MTk5YTExMGYxYzRiMTQ1OWZhMzEzYTE1In0=/source.ts
+
+#EXTINF:-1, TBS
+http://ryuk.serviceonline.live/lstream2/5a77bed377a2b216a366750a/59c49f31f6df682fdc196ca1/_/TBSHD.m3u8@eyJjcyI6dHJ1ZSwiYSI6IjNlM2QyZjJiYzQ2MmVmNThiOTE4NzlmZGY4MDlkYzEwIiwiYiI6Ijg2ZmRhNDQ0MDczOWZhMzVjNDkxOTNjMTcwZGZkY2IzIiwiYyI6IjM3MWJlYzM4MTk5YTExMGYxYzRiMTQ1OWZhMzEzYTE1In0=/source.ts
+
+#EXTINF:-1, TNT
+http://ryuk.serviceonline.live/lstream2/59c4ac773dcb4911e587b11a/59c49f31f6df682fdc196ca1/_/TNTHD.m3u8@eyJjcyI6dHJ1ZSwiYSI6IjE2MjJmZjM4MDFmYjc0YzM3NTUyYWEyZjEyODZhMDQ4IiwiYiI6Ijg2ZmRhNDQ0MDczOWZhMzVjNDkxOTNjMTcwZGZkY2IzIiwiYyI6IjM3MWJlYzM4MTk5YTExMGYxYzRiMTQ1OWZhMzEzYTE1In0=/source.ts
+
+#EXTINF:-1, TNT SERIES
+http://ryuk.serviceonline.live/lstream2/5a77bf3abaacf516873a2e06/59c49f31f6df682fdc196ca1/_/TNTSERIESHD.m3u8@eyJjcyI6dHJ1ZSwiYSI6IjE2MjJmZjM4MDFmYjc0YzM3NTUyYWEyZjEyODZhMDQ4IiwiYiI6Ijg2ZmRhNDQ0MDczOWZhMzVjNDkxOTNjMTcwZGZkY2IzIiwiYyI6IjM3MWJlYzM4MTk5YTExMGYxYzRiMTQ1OWZhMzEzYTE1In0=/source.ts
+
+#EXTINF:-1, TCM
+http://ryuk.serviceonline.live/lstream2/5a77bed377a2b216a366750a/59c49f31f6df682fdc196ca1/_/TBSHD.m3u8@eyJjcyI6dHJ1ZSwiYSI6IjE2MjJmZjM4MDFmYjc0YzM3NTUyYWEyZjEyODZhMDQ4IiwiYiI6Ijg2ZmRhNDQ0MDczOWZhMzVjNDkxOTNjMTcwZGZkY2IzIiwiYyI6IjM3MWJlYzM4MTk5YTExMGYxYzRiMTQ1OWZhMzEzYTE1In0=/source.ts
+
+#EXTINF:-1, AXN
+http://ryuk.serviceonline.live/lstream2/59c53ec40c0cb92303cdb608/59c49f31f6df682fdc196ca1/_/AXNHD.m3u8@eyJjcyI6dHJ1ZSwiYSI6Ijg1NDI4NjMyYTY2M2U1M2M3MmExMzY3ODI4NDQyZTgwIiwiYiI6Ijg2ZmRhNDQ0MDczOWZhMzVjNDkxOTNjMTcwZGZkY2IzIiwiYyI6IjM3MWJlYzM4MTk5YTExMGYxYzRiMTQ1OWZhMzEzYTE1In0=/source.ts
+
+#EXTINF:-1, FX
+http://peperoni.serviceonline.live/lstream2/5a779ecbf99d4e5690cde79d/59c49f31f6df682fdc196ca1/_/FXHD.m3u8@eyJjcyI6dHJ1ZSwiYSI6IjE2MjJmZjM4MDFmYjc0YzM3NTUyYWEyZjEyODZhMDQ4IiwiYiI6Ijg2ZmRhNDQ0MDczOWZhMzVjNDkxOTNjMTcwZGZkY2IzIiwiYyI6IjM3MWJlYzM4MTk5YTExMGYxYzRiMTQ1OWZhMzEzYTE1In0=/source.ts
+
+#EXTINF:-1, THE FILME ZONE
+http://ryuk.serviceonline.live/lstream2/5a779efe40536a5687412041/59c49f31f6df682fdc196ca1/_/THEFILMZONEHD.m3u8@eyJjcyI6dHJ1ZSwiYSI6IjE2MjJmZjM4MDFmYjc0YzM3NTUyYWEyZjEyODZhMDQ4IiwiYiI6Ijg2ZmRhNDQ0MDczOWZhMzVjNDkxOTNjMTcwZGZkY2IzIiwiYyI6IjM3MWJlYzM4MTk5YTExMGYxYzRiMTQ1OWZhMzEzYTE1In0=/source.ts
+
+#EXTINF:-1, DISNEY XD
+http://ryuk.serviceonline.live/lstream2/5a77983e40536a568741203e/59c49f31f6df682fdc196ca1/_/DISNEYXDHD.m3u8@eyJjcyI6dHJ1ZSwiYSI6IjE2MjJmZjM4MDFmYjc0YzM3NTUyYWEyZjEyODZhMDQ4IiwiYiI6Ijg2ZmRhNDQ0MDczOWZhMzVjNDkxOTNjMTcwZGZkY2IzIiwiYyI6IjM3MWJlYzM4MTk5YTExMGYxYzRiMTQ1OWZhMzEzYTE1In0=/source.ts
+
+#EXTINF:-1, HBO
+http://peperoni.serviceonline.live/lstream2/5a77bb8fb4c6931693486180/59c49f31f6df682fdc196ca1/_/HBOHD.m3u8@eyJjcyI6dHJ1ZSwiYSI6IjE2MjJmZjM4MDFmYjc0YzM3NTUyYWEyZjEyODZhMDQ4IiwiYiI6Ijg2ZmRhNDQ0MDczOWZhMzVjNDkxOTNjMTcwZGZkY2IzIiwiYyI6IjM3MWJlYzM4MTk5YTExMGYxYzRiMTQ1OWZhMzEzYTE1In0=/source.ts
+
+#EXTINF:-1, HBO PLUS
+http://peperoni.serviceonline.live/lstream2/5a77bbd2a311bd16bed859b4/59c49f31f6df682fdc196ca1/_/HBOPLUSHD.m3u8@eyJjcyI6dHJ1ZSwiYSI6IjE2MjJmZjM4MDFmYjc0YzM3NTUyYWEyZjEyODZhMDQ4IiwiYiI6Ijg2ZmRhNDQ0MDczOWZhMzVjNDkxOTNjMTcwZGZkY2IzIiwiYyI6IjM3MWJlYzM4MTk5YTExMGYxYzRiMTQ1OWZhMzEzYTE1In0=/source.ts
+
+#EXTINF:-1, HBO2
+http://peperoni.serviceonline.live/lstream2/5a77a5171e45225679b90cab/59c49f31f6df682fdc196ca1/_/HBO2HD.m3u8@eyJjcyI6dHJ1ZSwiYSI6IjE2MjJmZjM4MDFmYjc0YzM3NTUyYWEyZjEyODZhMDQ4IiwiYiI6Ijg2ZmRhNDQ0MDczOWZhMzVjNDkxOTNjMTcwZGZkY2IzIiwiYyI6IjM3MWJlYzM4MTk5YTExMGYxYzRiMTQ1OWZhMzEzYTE1In0=/source.ts
+
+#EXTINF:-1, HBO FAMILY
+http://peperoni.serviceonline.live/lstream2/5a77a5381e45225679b90cac/59c49f31f6df682fdc196ca1/_/HBOFAMILYHD.m3u8@eyJjcyI6dHJ1ZSwiYSI6IjE2MjJmZjM4MDFmYjc0YzM3NTUyYWEyZjEyODZhMDQ4IiwiYiI6Ijg2ZmRhNDQ0MDczOWZhMzVjNDkxOTNjMTcwZGZkY2IzIiwiYyI6IjM3MWJlYzM4MTk5YTExMGYxYzRiMTQ1OWZhMzEzYTE1In0=/source.ts
+
+#EXTINF:-1, HBO SIGNATURE
+http://peperoni.serviceonline.live/lstream2/5a77bc05baacf516873a2dfe/59c49f31f6df682fdc196ca1/_/HBOSIGNATUREHD.m3u8@eyJjcyI6dHJ1ZSwiYSI6IjE2MjJmZjM4MDFmYjc0YzM3NTUyYWEyZjEyODZhMDQ4IiwiYiI6Ijg2ZmRhNDQ0MDczOWZhMzVjNDkxOTNjMTcwZGZkY2IzIiwiYyI6IjM3MWJlYzM4MTk5YTExMGYxYzRiMTQ1OWZhMzEzYTE1In0=/source.ts
+
+#EXTINF:-1, ID DISCOBERY
+http://ryuk.serviceonline.live/lstream2/5a77bd92baacf516873a2dff/59c49f31f6df682fdc196ca1/_/IDHD.m3u8@eyJjcyI6dHJ1ZSwiYSI6IjE2MjJmZjM4MDFmYjc0YzM3NTUyYWEyZjEyODZhMDQ4IiwiYiI6Ijg2ZmRhNDQ0MDczOWZhMzVjNDkxOTNjMTcwZGZkY2IzIiwiYyI6IjM3MWJlYzM4MTk5YTExMGYxYzRiMTQ1OWZhMzEzYTE1In0=/source.ts
+
+#EXTINF:-1, FOX MOVIES
+http://peperoni.serviceonline.live/lstream2/5a779b8205b2bd56a114adbd/59c49f31f6df682fdc196ca1/_/FOXMOVIESHD.m3u8@eyJjcyI6dHJ1ZSwiYSI6IjE2MjJmZjM4MDFmYjc0YzM3NTUyYWEyZjEyODZhMDQ4IiwiYiI6Ijg2ZmRhNDQ0MDczOWZhMzVjNDkxOTNjMTcwZGZkY2IzIiwiYyI6IjM3MWJlYzM4MTk5YTExMGYxYzRiMTQ1OWZhMzEzYTE1In0=/source.ts
+
+#EXTINF:-1, FOX CINEMA
+http://peperoni.serviceonline.live/lstream2/5a779b2005b2bd56a114adbb/59c49f31f6df682fdc196ca1/_/FOXCINEMAHD.m3u8@eyJjcyI6dHJ1ZSwiYSI6IjE2MjJmZjM4MDFmYjc0YzM3NTUyYWEyZjEyODZhMDQ4IiwiYiI6Ijg2ZmRhNDQ0MDczOWZhMzVjNDkxOTNjMTcwZGZkY2IzIiwiYyI6IjM3MWJlYzM4MTk5YTExMGYxYzRiMTQ1OWZhMzEzYTE1In0=/source.ts
+
+#EXTINF:-1, FOX COMEDY
+http://peperoni.serviceonline.live/lstream2/5a779b3d05b2bd56a114adbc/59c49f31f6df682fdc196ca1/_/FOXCOMEDYHD.m3u8@eyJjcyI6dHJ1ZSwiYSI6IjE2MjJmZjM4MDFmYjc0YzM3NTUyYWEyZjEyODZhMDQ4IiwiYiI6Ijg2ZmRhNDQ0MDczOWZhMzVjNDkxOTNjMTcwZGZkY2IzIiwiYyI6IjM3MWJlYzM4MTk5YTExMGYxYzRiMTQ1OWZhMzEzYTE1In0=/source.ts
+
+#EXTINF:-1, FOX FAMILY
+http://peperoni.serviceonline.live/lstream2/5a779b69f99d4e5690cde79b/59c49f31f6df682fdc196ca1/_/FOXFAMILYHD.m3u8@eyJjcyI6dHJ1ZSwiYSI6IjE2MjJmZjM4MDFmYjc0YzM3NTUyYWEyZjEyODZhMDQ4IiwiYiI6Ijg2ZmRhNDQ0MDczOWZhMzVjNDkxOTNjMTcwZGZkY2IzIiwiYyI6IjM3MWJlYzM4MTk5YTExMGYxYzRiMTQ1OWZhMzEzYTE1In0=/source.ts
+
+#EXTINF:-1, FOX CLASSIC
+http://ryuk.serviceonline.live/lstream4/5908304f7efd824f7a2fe626/5900bc02970b1071e240b0cb/_/424.m3u8@eyJjcyI6dHJ1ZSwiYSI6IjE2MjJmZjM4MDFmYjc0YzM3NTUyYWEyZjEyODZhMDQ4IiwiYiI6Ijg2ZmRhNDQ0MDczOWZhMzVjNDkxOTNjMTcwZGZkY2IzIiwiYyI6IjM3MWJlYzM4MTk5YTExMGYxYzRiMTQ1OWZhMzEzYTE1In0=/source.ts
+
+#EXTINF:-1, FOX HD
+http://peperoni.serviceonline.live/lstream2/5a779ace05b2bd56a114adba/59c49f31f6df682fdc196ca1/_/FOXHD.m3u8@eyJjcyI6dHJ1ZSwiYSI6IjE2MjJmZjM4MDFmYjc0YzM3NTUyYWEyZjEyODZhMDQ4IiwiYiI6Ijg2ZmRhNDQ0MDczOWZhMzVjNDkxOTNjMTcwZGZkY2IzIiwiYyI6IjM3MWJlYzM4MTk5YTExMGYxYzRiMTQ1OWZhMzEzYTE1In0=/source.ts
+
+#EXTINF:-1, AMC
+http://ryuk.serviceonline.live/lstream2/59c548960c0cb92303cdb623/59c49f31f6df682fdc196ca1/_/AMCHD.m3u8@eyJjcyI6dHJ1ZSwiYSI6Ijg1NDI4NjMyYTY2M2U1M2M3MmExMzY3ODI4NDQyZTgwIiwiYiI6Ijg2ZmRhNDQ0MDczOWZhMzVjNDkxOTNjMTcwZGZkY2IzIiwiYyI6IjM3MWJlYzM4MTk5YTExMGYxYzRiMTQ1OWZhMzEzYTE1In0=/source.ts
+
+#EXTINF:-1, UNIVERSAL CHANNEL
+http://ryuk.serviceonline.live/lstream2/5a77bf7d77a2b216a366750c/59c49f31f6df682fdc196ca1/_/UNIVERSALCHANNELHD.m3u8@eyJjcyI6dHJ1ZSwiYSI6IjE2MjJmZjM4MDFmYjc0YzM3NTUyYWEyZjEyODZhMDQ4IiwiYiI6Ijg2ZmRhNDQ0MDczOWZhMzVjNDkxOTNjMTcwZGZkY2IzIiwiYyI6IjM3MWJlYzM4MTk5YTExMGYxYzRiMTQ1OWZhMzEzYTE1In0=/source.ts
+
+#EXTINF:-1, I SAT
+http://ryuk.serviceonline.live/lstream2/5a77bdac77a2b216a3667509/59c49f31f6df682fdc196ca1/_/ISATHD.m3u8@eyJjcyI6dHJ1ZSwiYSI6IjE2MjJmZjM4MDFmYjc0YzM3NTUyYWEyZjEyODZhMDQ4IiwiYiI6Ijg2ZmRhNDQ0MDczOWZhMzVjNDkxOTNjMTcwZGZkY2IzIiwiYyI6IjM3MWJlYzM4MTk5YTExMGYxYzRiMTQ1OWZhMzEzYTE1In0=/source.ts
+
+#EXTINF:-1, PARAMOUNT CHANNEL
+http://ryuk.serviceonline.live/lstream2/5a77be6dbaacf516873a2e03/59c49f31f6df682fdc196ca1/_/PARAMOUNTHD.m3u8@eyJjcyI6dHJ1ZSwiYSI6IjE2MjJmZjM4MDFmYjc0YzM3NTUyYWEyZjEyODZhMDQ4IiwiYiI6Ijg2ZmRhNDQ0MDczOWZhMzVjNDkxOTNjMTcwZGZkY2IzIiwiYyI6IjM3MWJlYzM4MTk5YTExMGYxYzRiMTQ1OWZhMzEzYTE1In0=/source.ts
+
+#EXTINF:-1, CINECANAL
+http://ryuk.serviceonline.live/lstream2/5a7797481e45225679b90ca6/59c49f31f6df682fdc196ca1/_/CINECANALHD.m3u8@eyJjcyI6dHJ1ZSwiYSI6IjE2MjJmZjM4MDFmYjc0YzM3NTUyYWEyZjEyODZhMDQ4IiwiYiI6Ijg2ZmRhNDQ0MDczOWZhMzVjNDkxOTNjMTcwZGZkY2IzIiwiYyI6IjM3MWJlYzM4MTk5YTExMGYxYzRiMTQ1OWZhMzEzYTE1In0=/source.ts
+
+#EXTINF:-1, GOLDEN
+http://ryuk.serviceonline.live/lstream2/59c4aa7f63c07776dd975188/59c49f31f6df682fdc196ca1/_/GOLDENHD.m3u8@eyJjcyI6dHJ1ZSwiYSI6IjE2MjJmZjM4MDFmYjc0YzM3NTUyYWEyZjEyODZhMDQ4IiwiYiI6Ijg2ZmRhNDQ0MDczOWZhMzVjNDkxOTNjMTcwZGZkY2IzIiwiYyI6IjM3MWJlYzM4MTk5YTExMGYxYzRiMTQ1OWZhMzEzYTE1In0=/source.ts
+
+#EXTINF:-1, SPACE
+http://peperoni.serviceonline.live/lstream2/59cea749df7edc269cd2b509/59c49f31f6df682fdc196ca1/_/SPACEHD.m3u8@eyJjcyI6dHJ1ZSwiYSI6IjE2MjJmZjM4MDFmYjc0YzM3NTUyYWEyZjEyODZhMDQ4IiwiYiI6Ijg2ZmRhNDQ0MDczOWZhMzVjNDkxOTNjMTcwZGZkY2IzIiwiYyI6IjM3MWJlYzM4MTk5YTExMGYxYzRiMTQ1OWZhMzEzYTE1In0=/source.ts
+
+#EXTINF:-1, DISCOBERY SCIENCE
+http://ryuk.serviceonline.live/lstream2/5a7799091e45225679b90ca9/59c49f31f6df682fdc196ca1/_/DISCOVERYSCIENCEHD.m3u8@eyJjcyI6dHJ1ZSwiYSI6IjE2MjJmZjM4MDFmYjc0YzM3NTUyYWEyZjEyODZhMDQ4IiwiYiI6Ijg2ZmRhNDQ0MDczOWZhMzVjNDkxOTNjMTcwZGZkY2IzIiwiYyI6IjM3MWJlYzM4MTk5YTExMGYxYzRiMTQ1OWZhMzEzYTE1In0=/source.ts
+
+#EXTINF:-1, DISCOBERY WORLD
+http://ryuk.serviceonline.live/lstream2/5a779a5f05b2bd56a114adb8/59c49f31f6df682fdc196ca1/_/DISCOVERYWORLDHD.m3u8@eyJjcyI6dHJ1ZSwiYSI6IjE2MjJmZjM4MDFmYjc0YzM3NTUyYWEyZjEyODZhMDQ4IiwiYiI6Ijg2ZmRhNDQ0MDczOWZhMzVjNDkxOTNjMTcwZGZkY2IzIiwiYyI6IjM3MWJlYzM4MTk5YTExMGYxYzRiMTQ1OWZhMzEzYTE1In0=/source.ts
+
+#EXTINF:-1, DISCOBERY THEATER
+http://ryuk.serviceonline.live/lstream2/5a779a151e45225679b90caa/59c49f31f6df682fdc196ca1/_/DISCOVERYTHEATERHD.m3u8@eyJjcyI6dHJ1ZSwiYSI6IjE2MjJmZjM4MDFmYjc0YzM3NTUyYWEyZjEyODZhMDQ4IiwiYiI6Ijg2ZmRhNDQ0MDczOWZhMzVjNDkxOTNjMTcwZGZkY2IzIiwiYyI6IjM3MWJlYzM4MTk5YTExMGYxYzRiMTQ1OWZhMzEzYTE1In0=/source.ts
+
+#EXTINF:-1, DISCOBERY CHANNEL
+http://peperoni.serviceonline.live/lstream2/5a68c67c135aa0796e07d66b/59c49f31f6df682fdc196ca1/_/discoverychannelHD.m3u8@eyJjcyI6dHJ1ZSwiYSI6IjE2MjJmZjM4MDFmYjc0YzM3NTUyYWEyZjEyODZhMDQ4IiwiYiI6Ijg2ZmRhNDQ0MDczOWZhMzVjNDkxOTNjMTcwZGZkY2IzIiwiYyI6IjM3MWJlYzM4MTk5YTExMGYxYzRiMTQ1OWZhMzEzYTE1In0=/source.ts
+
+#EXTINF:-1, ANIMAL PLANET
+http://ryuk.serviceonline.live/lstream2/5a77970540536a568741203a/59c49f31f6df682fdc196ca1/_/ANIMALPLANETHD.m3u8@eyJjcyI6dHJ1ZSwiYSI6Ijg1NDI4NjMyYTY2M2U1M2M3MmExMzY3ODI4NDQyZTgwIiwiYiI6Ijg2ZmRhNDQ0MDczOWZhMzVjNDkxOTNjMTcwZGZkY2IzIiwiYyI6IjM3MWJlYzM4MTk5YTExMGYxYzRiMTQ1OWZhMzEzYTE1In0=/source.ts
+
+#EXTINF:-1, TRU TV
+http://ryuk.serviceonline.live/lstream2/5a68c5527b7cee799e13281b/59c49f31f6df682fdc196ca1/_/trutvHD.m3u8@eyJjcyI6dHJ1ZSwiYSI6IjE2MjJmZjM4MDFmYjc0YzM3NTUyYWEyZjEyODZhMDQ4IiwiYiI6Ijg2ZmRhNDQ0MDczOWZhMzVjNDkxOTNjMTcwZGZkY2IzIiwiYyI6IjM3MWJlYzM4MTk5YTExMGYxYzRiMTQ1OWZhMzEzYTE1In0=/source.ts
+
+#EXTINF:-1, TLC
+http://ryuk.serviceonline.live/lstream2/5a77bf15baacf516873a2e05/59c49f31f6df682fdc196ca1/_/TLCHD.m3u8@eyJjcyI6dHJ1ZSwiYSI6IjE2MjJmZjM4MDFmYjc0YzM3NTUyYWEyZjEyODZhMDQ4IiwiYiI6Ijg2ZmRhNDQ0MDczOWZhMzVjNDkxOTNjMTcwZGZkY2IzIiwiYyI6IjM3MWJlYzM4MTk5YTExMGYxYzRiMTQ1OWZhMzEzYTE1In0=/source.ts
+
+#EXTINF:-1, H&H
+http://ryuk.serviceonline.live/lstream2/5a7798a51e45225679b90ca8/59c49f31f6df682fdc196ca1/_/HHHD.m3u8@eyJjcyI6dHJ1ZSwiYSI6IjE2MjJmZjM4MDFmYjc0YzM3NTUyYWEyZjEyODZhMDQ4IiwiYiI6Ijg2ZmRhNDQ0MDczOWZhMzVjNDkxOTNjMTcwZGZkY2IzIiwiYyI6IjM3MWJlYzM4MTk5YTExMGYxYzRiMTQ1OWZhMzEzYTE1In0=/source.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jG8b9HW.png" group-title="DEPORTES",UNIVISION TDN
+https://nludnoo.akamaized.net/nlds/univision/as/live/udnoo_hd_4500.m3u8
+
+#EXTINF:-1, UNIVISION TDN
+https://ssh101.com/m3u8/dyn/univtdnmxvall/index.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Deportes", NFL Live
+http://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Deportes", FightTime
+http://109.232.71.249/stream/stream_fighttime/fighttimehd.m3u8
+
+#EXTINF:-1, tvg-logo="https://i.imgur.com/YyAsaqb.png" group-title="Deportes", DeporTV | SD
+https://564e2be0304b6.streamlock.net/DXTV/smil:DXTV/playlist.m3u8?
+
+#EXTINF:-1, tvg-logo="https://i.imgur.com/bNXH4cj.png" group-title="Deportes", Real Madrid TV | SD
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+
+#EXTINF:-1 group-title="Deportes",Real Madrid TV HD
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?iptvgratis?chile.m3u8
+
+#EXTINF:-1, tvg-logo="https://i.imgur.com/FTLjroU.png" group-title="Deportes", Sevilla FC | SD
+http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/MA9c6WG.png" group-title="Deportes", Pac-12 Arizona | FHD
+http://p12a-lh.akamaihd.net/i/arizona_delivery@199730/master.m3u8
+
+#EXTINF:0  tvg-logo="https://i.imgur.com/MA9c6WG.png" group-title="Deportes", Pac-12 Bay Area | FHD
+http://p12b-lh.akamaihd.net/i/bayarea_delivery@429334/master.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/MA9c6WG.png" group-title="Deportes", Pac-12 Los Angeles | FHD
+http://p12l-lh.akamaihd.net/i/la_delivery@425541/master.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/MA9c6WG.png" group-title="Deportes", Pac-12 Mountain | FHD
+http://p12m-lh.akamaihd.net/i/mountain_delivery@428912/master.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/MA9c6WG.png" group-title="Deportes", Pac-12 Oregon | FHD
+http://p12o-lh.akamaihd.net/i/oregon_delivery@103261/master.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/MA9c6WG.png" group-title="Deportes", Pac-12 Washington | FHD
+http://p12w-lh.akamaihd.net/i/washington_delivery@426584/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Kkj5IF9.png"  group-title="Deportes", CDO Premium
+http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
+
+#EXTINF:-1,NeoSports
+http://cshms4.airtel.tv/PLTV/88888888/224/3221225791/01.m3u8
+
+#EXTINF:-1,DD Sports
+http://mhms9.airtel.tv/wh7f454c46tw872912663_877861895/PLTV/88888888/224/3221226346/01.m3u8
+
+#EXTINF:-1,DSports HD
+http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226484/04.m3u8
+
+#EXTINF:-1,DSports L1
+http://mhms8.airtel.tv/wh7f454c46tw2201796875_990797628/PLTV/88888888/224/3221226392/06.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Deportes", MLB NETWORK
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/gjBAU2S.png" group-title="USA",NFL Now
+https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
+
+#EXTINF:-1,CARTOON NETWORK
+http://peperoni.serviceonline.live/lstream2/5a10594ebefbcc36c27b2ae0/59c49f31f6df682fdc196ca1/_/CARTOONNETWORKHD.m3u8@eyJjcyI6dHJ1ZSwiYSI6IjFhNTM0MGFlOTI1MWY0MDRjOTk5ZWUxMWEwYzUxNGRjIiwiYiI6Ijg2ZmRhNDQ0MDczOWZhMzVjNDkxOTNjMTcwZGZkY2IzIiwiYyI6IjM3MWJlYzM4MTk5YTExMGYxYzRiMTQ1OWZhMzEzYTE1In0=/source.ts
+
+#EXTINF:-1, NICK
+http://ryuk.serviceonline.live/lstream2/59c5481f0c0cb92303cdb620/59c49f31f6df682fdc196ca1/_/NICKELODEONHD.m3u8@eyJjcyI6dHJ1ZSwiYSI6IjE2MjJmZjM4MDFmYjc0YzM3NTUyYWEyZjEyODZhMDQ4IiwiYiI6Ijg2ZmRhNDQ0MDczOWZhMzVjNDkxOTNjMTcwZGZkY2IzIiwiYyI6IjM3MWJlYzM4MTk5YTExMGYxYzRiMTQ1OWZhMzEzYTE1In0=/source.ts
+
+#EXTINF:-1, TOONCAST
+http://ryuk.serviceonline.live/lstream2/5a77bf52baacf516873a2e07/59c49f31f6df682fdc196ca1/_/TOONCASTHD.m3u8@eyJjcyI6dHJ1ZSwiYSI6IjE2MjJmZjM4MDFmYjc0YzM3NTUyYWEyZjEyODZhMDQ4IiwiYiI6Ijg2ZmRhNDQ0MDczOWZhMzVjNDkxOTNjMTcwZGZkY2IzIiwiYyI6IjM3MWJlYzM4MTk5YTExMGYxYzRiMTQ1OWZhMzEzYTE1In0=/source.ts
+
+#EXTINF:-1, NAT GEO KIDS
+http://ryuk.serviceonline.live/lstream2/5a77be47a311bd16bed859b6/59c49f31f6df682fdc196ca1/_/NATGEOKIDSHD.m3u8@eyJjcyI6dHJ1ZSwiYSI6IjE2MjJmZjM4MDFmYjc0YzM3NTUyYWEyZjEyODZhMDQ4IiwiYiI6Ijg2ZmRhNDQ0MDczOWZhMzVjNDkxOTNjMTcwZGZkY2IzIiwiYyI6IjM3MWJlYzM4MTk5YTExMGYxYzRiMTQ1OWZhMzEzYTE1In0=/source.ts
+
+#EXTINF:-1, DISCOBERY KIDS
+http://ryuk.serviceonline.live/lstream2/5a7798dc40536a568741203f/59c49f31f6df682fdc196ca1/_/DISCOVERYKIDSHD.m3u8@eyJjcyI6dHJ1ZSwiYSI6IjE2MjJmZjM4MDFmYjc0YzM3NTUyYWEyZjEyODZhMDQ4IiwiYiI6Ijg2ZmRhNDQ0MDczOWZhMzVjNDkxOTNjMTcwZGZkY2IzIiwiYyI6IjM3MWJlYzM4MTk5YTExMGYxYzRiMTQ1OWZhMzEzYTE1In0=/source.ts
+
+#EXTINF:-1,BANDAMAX
+http://189.216.247.113/Content/HLS/Live/Channel(BANDAMAX)/Stream(01)/index.m3u8
+
+#EXTINF:-1, Weather Channel
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/n1AJtRokP_w/maxresdefault.jpg" group-title="24/7",premium tv le ofrece esta lista gratis [Apoyanos con unos clics en la publicidad]
+http://wse.planeta-online.tv:1935/live/channel_3/chunklist.m3u8
+
+#EXTINF:-1,ECUADOR:Canela TV
+http://servicioamerica.com:1935/8200/8200/playlist.m3u8
+
+#EXTINF:-1,ECUADOR:TC
+http://elcanaldelfutbol.com/static/wowza/test/hls/10001/480p/playlist.m3u8
+
+#EXTINF:-1,ECUADOR:TC HD
+http://elcanaldelfutbol.com/static/wowza/test/hls/10001/720p/playlist.m3u8
+
+#EXTINF:-1,canela tv
+http://servicioamerica.com:1935/8200/8200/chunklist_w1463195715.m3u8
+
+# EXTINF: -1, Ecuavisa
+http://elcanaldelfutbol.com/static/wowza/test/hls/20001/360p/playlist.m3u8
+
+#EXTINF: -1, UCSG
+http://ecuastream.net:1935/UCSGHQ/UCSGHQ/playlist.m3u8
+
+#EXTINF:-1 group-title="Lista 4",CAÑAR TV
+http://stmv2.srvstm.com/manatv/manatv/playlist.m3u8?
+
+#EXTINF:1,dw latinoamerica
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_2_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:0, Telemedellin Colombia#EXTINF:-1,UK: Sky NEWS
+http://iptv.iptvserver365.com:8080/live/elcin67/elcin67/1369.ts
+
+#EXTINF:-1,UK: ITV 1
+http://iptv.iptvserver365.com:8080/live/elcin67/elcin67/1351.ts
+
+#EXTINF:-1,UK: ITV 2
+http://iptv.iptvserver365.com:8080/live/elcin67/elcin67/1348.ts
+
+#EXTINF:-1,UK: ITV 3
+http://iptv.iptvserver365.com:8080/live/elcin67/elcin67/1349.ts
+
+#EXTINF:-1,UK: ITV 4
+http://iptv.iptvserver365.com:8080/live/elcin67/elcin67/1350.ts
+
+#EXTINF:-1,UK: Sky Movies Premiere
+http://iptv.iptvserver365.com:8080/live/elcin67/elcin67/1374.ts
+
+#EXTINF:-1,UK: Discovery Investigation
+http://iptv.iptvserver365.com:8080/live/elcin67/elcin67/1388.ts
+
+#EXTINF:-1,UK: SKY CINEMA MONSTERS
+http://iptv.iptvserver365.com:8080/live/elcin67/elcin67/1392.ts
+
+#EXTINF:-1,UK: Nick Junior
+http://iptv.iptvserver365.com:8080/live/elcin67/elcin67/1390.ts
+
+#EXTINF:-1,UK: Sky Atlantic
+http://iptv.iptvserver365.com:8080/live/elcin67/elcin67/1380.ts
+
+#EXTINF:-1,UK: SKY  SELECT
+http://iptv.iptvserver365.com:8080/live/elcin67/elcin67/1370.ts
+
+#EXTINF:-1,UK: Sky Movies Comedy
+http://iptv.iptvserver365.com:8080/live/elcin67/elcin67/1378.ts
+
+#EXTINF:-1,UK: Sky Movies Drama
+http://iptv.iptvserver365.com:8080/live/elcin67/elcin67/1377.ts
+
+#EXTINF:-1,UK: Sky Movies Family
+http://iptv.iptvserver365.com:8080/live/elcin67/elcin67/1372.ts
+
+#EXTINF:-1,UK: Sky Movies Scifi Horror
+http://iptv.iptvserver365.com:8080/live/elcin67/elcin67/1376.ts
+
+#EXTINF:-1,UK: Sky Movies Select
+http://iptv.iptvserver365.com:8080/live/elcin67/elcin67/1375.ts
+
+#EXTINF:-1,UK: Sky Movies Showcase
+http://iptv.iptvserver365.com:8080/live/elcin67/elcin67/1379.ts
+
+#EXTINF:-1,UK: Sky Movies Thriller
+http://iptv.iptvserver365.com:8080/live/elcin67/elcin67/1371.ts
+
+#EXTINF:-1,UK: Sky One
+http://iptv.iptvserver365.com:8080/live/elcin67/elcin67/1367.ts
+
+#EXTINF:-1,UK: Sky Two
+http://iptv.iptvserver365.com:8080/live/elcin67/elcin67/1368.ts
+http://vod.livestream.com/events/000000000022086c/d7ab7583-3409-47c2-b184-33470225834c_2320.m3u8?token=0_5843fb23_5ab6e30de07930b4aa8d629ac66fbaac58d732e8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/b27Bk9b.png" group-title="DEPORTES", Real Madrid TV HD
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?iptvgratis?chile.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.portalfoxmix.cl/web/wp-content/uploads/2016/03/logoPFM.png" group-title="MUSICA",PortalFoxMix Tv
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1 tvg-logo="http://lamegamundial.com/lamegamundial/assets/img/logo.png" group-title="MUSICA",La Mega Mundial
+http://68.235.35.243:1935/lamegamundial/lamegamundial2/chunklist_w1614152194.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/nR6Fcm2.png" group-title="ARGENTINA",DeporTV
+http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8
+
+#EXTINF:-1,MIAMI TELEMUNDO
+http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
+
+#EXTINF:-1,CANAL 11
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
+
+#EXTINF:-1,EL SALVADOR WOWTV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+
+#EXTINF:-1,Melody Channel
+http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
+
+#EXTINF:-1,ESPAÑA DIVINITY
+https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_3.m3u8
+
+#EXTINF:-1,chilevision
+http://chv.movil.hls.ztreaming.com/chvmovil2/chilevision@140569/1.m3u8
